@@ -17,6 +17,7 @@ const Calendar = () => {
           <DateCard
             key={value.date}
             date={value.date}
+            todos={value.todos}
             isSat={value.isSat}
             isHoliday={value.isHoliday}
           />
