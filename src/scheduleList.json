@@ -7,19 +7,19 @@
   },
   {
     "date": 2,
-    "todos": ["복습"],
+    "todos": ["수업"],
     "isSat": true,
     "isHoliday": false
   },
   {
     "date": 3,
-    "todos": ["수업"],
+    "todos": ["복습"],
     "isSat": false,
     "isHoliday": true
   },
   {
     "date": 4,
-    "todos": ["수업"],
+    "todos": ["보스잡기"],
     "isSat": false,
     "isHoliday": false
   },
@@ -61,7 +61,7 @@
   },
   {
     "date": 11,
-    "todos": [],
+    "todos": ["보스잡기"],
     "isSat": false,
     "isHoliday": false
   },
