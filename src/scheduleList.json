@@ -1,43 +1,43 @@
 [
   {
     "date": 1,
-    "todos": [],
+    "todos": ["수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 2,
-    "todos": [],
+    "todos": ["복습"],
     "isSat": true,
     "isHoliday": false
   },
   {
     "date": 3,
-    "todos": [],
+    "todos": ["수업"],
     "isSat": false,
     "isHoliday": true
   },
   {
     "date": 4,
-    "todos": [],
+    "todos": ["수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 5,
-    "todos": [],
+    "todos": ["수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 6,
-    "todos": [],
+    "todos": ["수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 7,
-    "todos": [],
+    "todos": ["수업"],
     "isSat": false,
     "isHoliday": false
   },
